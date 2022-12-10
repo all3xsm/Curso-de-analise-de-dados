@@ -25,5 +25,4 @@ if hr_inicial == hr_final and min_inicial == min_final:
     hr_total = 24
     min_total = 0
 
-
 print("O jogo durou {} hora(s) e {} minuto(s)".format(hr_total, min_total))
